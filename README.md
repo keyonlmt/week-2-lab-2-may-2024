@@ -17,7 +17,7 @@ A simple HTML page about me and my hobby.
 - [x] Create index.html
 - [x] Update README author
 - [ ] Update Home page (index.html with my info)
-- [ ] Create gallery.html
+- [x] Create gallery.html
 - [ ] Add 3 pictures
 - [ ] Create about.html
 - [ ] Create 2 lists
@@ -36,6 +36,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 ## Contact
 
 Author: robert.mccreary@codex.academy
+Author: Kimberly Fleming
 
 ## Acknowledgements
 
