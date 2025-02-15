@@ -19,7 +19,7 @@ A simple HTML page about me and my hobby.
 - [ ] Update Home page (index.html with my info)
 - [x] Create gallery.html
 - [ ] Add 3 pictures
-- [ ] Create about.html
+- [x] Create about.html
 - [ ] Create 2 lists
 - [ ] Add a tags to link the pages together
 - [ ] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
